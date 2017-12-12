@@ -182,7 +182,7 @@ definitions:
           href: /orders?offset=40&limit=5          
 
       _embedded:
-        order:
+        orders:
           - $ref: '#/definitions/halOrder/example'
 
   #
